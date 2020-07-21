@@ -21,7 +21,8 @@ Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine le
   <a href="https://www.instagram.com/the.programmer_boy/">
   <img align="left" alt="Sanket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-
+  <br />
+  
 - 📧 email - sgumredkar@gmail.com
 
 ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanky2501&show_icons=true&hide_border=true)
