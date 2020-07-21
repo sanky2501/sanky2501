@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## This is Sanket.
-Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine learning Enthusiast 🏡from Pune. I'm team Member of 👨‍💻@dsc-vit and 👨🏽‍💼@The-Robotics-Forum. Besides Instrumentation Engineer
+Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine learning Enthusiast 🏡from Pune. I'm team Member of 👨‍💻[@dsc-vit](@dsc-vit) and 👨🏽‍💼[@The-Robotics-Forum](@The-Robotics-Forum). Besides Instrumentation Engineer. 
 
 ### Personal Stuff:
 
