@@ -3,7 +3,7 @@
 ## This is Sanket.
 Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine learning Enthusiast 🏡from Pune. I'm team Member of 👨‍💻[@dsc-vit](https://www.linkedin.com/company/dscvitpune/) and 👨🏽‍💼[@The-Robotics-Forum](https://github.com/The-Robotics-Forum). Besides Instrumentation Engineer. 
 
-### Personal Stuff:
+**Personal Stuff:**
 
 - 🔭 I’m currently working on projects in the field of Android, Machine learning, Deep learning, Predictive Maintainance, Action on Google, Alexa Skills ,etc.
 - 🌱 I’m currently learning AR/VR, MongoDB, UI/UX, etc.
@@ -25,4 +25,4 @@ Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine le
   
 - 📧 email - sgumredkar@gmail.com
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanky2501&show_icons=true&hide_border=true)
+![**Sanket's github stats**](https://github-readme-stats.vercel.app/api?username=sanky2501&show_icons=true&hide_border=true)
