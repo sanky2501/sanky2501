@@ -16,7 +16,7 @@ Hi I'm Sanket Umredkar. I'm an Android Developer, Cloud Developer and Machine le
   <img align="left" alt="Sanket's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/sanket_umredkar">
-  <img align="left" alt="Sanket Patil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sanket Umredkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.instagram.com/the.programmer_boy/">
   <img align="left" alt="Sanket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
